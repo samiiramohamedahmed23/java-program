@@ -1,12 +1,4 @@
-// Name; samira mohamed ahmed
-//Class; Cns231
-//ID; C6230132
-
 # java-program
-// Name; samira mohamed ahmed
-//Class; Cns231
-//ID; C6230132
-
 import java.util.Date;
 import java.util.Scanner;
 
